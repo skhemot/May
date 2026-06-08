@@ -1,4 +1,4 @@
-QA|  mmm
+QA |  mmm
 product /
 this is first file 
 this isgit third kk
