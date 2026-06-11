@@ -1,4 +1,4 @@
-  QA  k |   mm m  
+  QA  k   mm m  
 produc t 
 this is first  file 
 this isgit third kk
