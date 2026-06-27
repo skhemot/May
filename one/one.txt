@@ -1,5 +1,5 @@
 wq   QA
-this is first  
+this is first
 this isgit  third
 this  is f eature login buttohn  automati
 Ratnash  tir  branch edit 
